@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="start" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <module name="projet_cursus_java" />
+    <option name="SPRING_BOOT_MAIN_CLASS" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
